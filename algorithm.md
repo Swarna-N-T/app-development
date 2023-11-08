@@ -1,9 +1,9 @@
-Algorithm: <br>
+## Algorithm: <br>
 # Simple Resume Parser
 
-Input: Resume document in plain text format
+ Input: Resume document in plain text format
 
-Output: Parsed resume information
+ Output: Parsed resume information
 
 1. Initialize an empty dictionary to store parsed information (e.g., parsedData).
 
